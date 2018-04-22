@@ -2,4 +2,4 @@ def say_hello (name = "Ruby Programmer!")
  puts "Hello #{name}"
 end
 
-prints say_hello
+print say_hello
